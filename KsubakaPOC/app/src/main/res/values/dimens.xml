@@ -1,0 +1,8 @@
+<resources>
+    <dimen name="horizontal_margin">16dp</dimen>
+    <dimen name="vertical_margin">16dp</dimen>
+    <dimen name="poster_vertical_margin">2dp</dimen>
+    <dimen name="item_padding">4dp</dimen>
+    <dimen name="item_text_margin">8dp</dimen>
+    <dimen name="text_margin">16dp</dimen>
+</resources>

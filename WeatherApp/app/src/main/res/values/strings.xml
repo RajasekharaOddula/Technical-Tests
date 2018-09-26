@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="network_error">Please Check Your Network Setting</string>
+</resources>

@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Krown9 POC</string>
+    <string name="leagues_header">Krown9 POC / Sports Leagues</string>
+    <string name="title_activity_league_detail">LeagueDetailActivity</string>
+    <string name="game_icon_desc">This Image describes Game Icon. i.e League related Sport Icon</string>
+    <string name="handle_desc">This Image will be used as Handle to Reorder the List element</string>
+    <string name="website_icon_desc">This FAB Image is used to Open the League specific website for complete details about the league</string>
+
+</resources>
