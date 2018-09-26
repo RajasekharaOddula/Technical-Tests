@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">LastFM POC</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Last FM</string>
+    <string name="nav_header_subtitle">choose below search categories to explore your favorite music tracks </string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="image_desc">Image which represents Album / Artist / Track</string>
+
+    <string name="search_hint">Enter your key to search</string>
+
+    <string name="str_album">Album</string>
+    <string name="str_artist">Artist</string>
+    <string name="str_track">Track / Song</string>
+</resources>
